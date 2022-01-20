@@ -1,6 +1,5 @@
 body {
     background-color:rgb(37, 122, 148);
-    margin-left: 40px;
 }
 
 img {
@@ -30,8 +29,13 @@ h1 {
 
 p,li {
     color: rgb(255, 255, 191);
+    text-align: left;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+p {
     text-align: center;
-    
 }
 
 ul,ol {
@@ -62,6 +66,8 @@ button {
 }
 .index {
     line-height: 3;
+    margin-top: 45px;
+    margin-bottom: 45px;
 }
 
 a:link {text-decoration: none;}
