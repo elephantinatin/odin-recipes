@@ -1,0 +1,38 @@
+body {
+    background-color:rgb(37, 122, 148);
+}
+
+img {
+   border-radius: 15px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+ul {
+    padding-left: 0;
+}
+
+h1,h2,p,li {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1,h2 {
+    line-height: 0.7;
+    background-color: rgb(37, 122, 148);
+    color: rgb(230, 230, 65);
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 60px;
+    line-height:0.0
+}
+
+a {
+    line-height: 3;
+    background-color: rgb(230, 230, 65);
+    color: rgb(37, 122, 148);
+}
+
